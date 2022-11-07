@@ -3,7 +3,7 @@
 ## Trends
 ## Analysis
 ### District Summary
-![District Summary](Images\district_summary.PNG)
+![District Summary](Images\district_summary.png)
 ### School Summary
 ### Top Performing Schools (By % Overall Passing)
 ### Bottom Performing Schools (By  % Overall Passing)
