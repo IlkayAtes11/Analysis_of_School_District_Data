@@ -10,15 +10,15 @@ There are two data sets, which are 'schools data' and 'students data'. Before st
 ## Analysis
 ### District Summary
 
-Dataframe includes:
-Total schools
-Total students
-Total budget
-Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-% overall passing (the percentage of students who passed math AND reading)
+* Dataframe includes:
+* Total schools
+* Total students
+* Total budget
+* Average math score
+* Average reading score
+* % passing math (the percentage of students who passed math)
+* % passing reading (the percentage of students who passed reading)
+* % overall passing (the percentage of students who passed math AND reading)
 
 ![District Summary](./Images/district_summary.PNG)
 
@@ -26,16 +26,16 @@ Average reading score
 
 Data Frame includes below key metrics about each school:
 
-School name
-School type
-Total students
-Total school budget
-Per student budget
-Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-% overall passing (the percentage of students who passed math AND reading)
+* School name
+* School type
+* Total students
+* Total school budget
+* Per student budget
+* Average math score
+* Average reading score
+* % passing math (the percentage of students who passed math)
+* % passing reading (the percentage of students who passed reading)
+* % overall passing (the percentage of students who passed math AND reading)
 
 ![School Summary](./Images/school_summary.PNG)
 
