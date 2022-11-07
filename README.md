@@ -14,6 +14,3 @@
 ### Scores by School Spending
 ### Scores by School Size
 ### Scores by School Type
-
-
-[def]: Images\district_summary.PNG
