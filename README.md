@@ -10,7 +10,8 @@ There are two data sets, which are 'schools data' and 'students data'. Before st
 ## Analysis
 ### District Summary
 
-* Dataframe includes:
+Dataframe includes:
+
 * Total schools
 * Total students
 * Total budget
@@ -39,17 +40,72 @@ Data Frame includes below key metrics about each school:
 
 ![School Summary](./Images/school_summary.PNG)
 
-### Top Performing Schools (By % Overall Passing)
+### Highest-Performing Schools (by % Overall Passing)
+
+DataFrame highlights the top-5 performing schools based on % Overall Passing. Includes the following metrics:
+
+* School name
+* School type
+* Total students
+* Total school budget
+* Per student budget
+* Average math score
+* Average reading score
+* % passing math (the percentage of students who passed math)
+* % passing reading (the percentage of students who passed reading)
+* % overall passing (the percentage of students who passed math AND reading)
+
 ![Top Performing Schools](./Images/top_five.PNG)
-### Bottom Performing Schools (By  % Overall Passing)
+
+### Lowest-Performing Schools (by % Overall Passing)
+
+DataFrame highlights the bottom-5 performing schools based on % Overall Passing. Includes the following metrics:
+
+* School name
+* School type
+* Total students
+* Total school budget
+* Per student budget
+* Average math score
+* Average reading score
+* % passing math (the percentage of students who passed math)
+* % passing reading (the percentage of students who passed reading)
+* % overall passing (the percentage of students who passed math AND reading)
+
 ![Bottom Performing Schools](./Images/bottom_five.PNG)
-### Math Score by Grade Level
+
+### Math Score by Grade
+
+This dataframe lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
 ![Math Score by Grade Level](./Images/math_scores_acc_grade.PNG)
-### Reading Score by Grade Level
+
+### Reading Score by Grade
+
+This dataframe lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
 ![Reading Scores by Grade Level](./Images/reading_scores_acc_grade.PNG)
+
 ### Scores by School Spending
+
+This dataframe breaks down school performance based on average spending ranges (per student) and includes the following metrics:
+
+* Average math score
+* Average reading score
+* % passing math (the percentage of students who passed math)
+* % passing reading (the percentage of students who passed reading)
+* % overall passing (the percentage of students who passed math AND reading)
+
 ![Scores by School Spending](./Images/scores_by_spending.PNG)
+
 ### Scores by School Size
+
+This table breaks down school performance based on school size (small, medium, or large).
+
 ![Scores by School Size](./Images/scores_by_school_size.PNG)
+
 ### Scores by School Type
+
+This table breaks down school performance based on school type (district public or charter)
+
 ![School Type](./Images/scores_by_school_type.PNG)
