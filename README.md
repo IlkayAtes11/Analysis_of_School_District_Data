@@ -4,7 +4,8 @@
 ## Analysis
 ### District Summary
 
-![District Summary ] (Images\district_summary.PNG)
+![District Summary ][Images\district_summary.PNG]
+
 ### School Summary
 ### Top Performing Schools (By % Overall Passing)
 ### Bottom Performing Schools (By  % Overall Passing)
@@ -13,3 +14,6 @@
 ### Scores by School Spending
 ### Scores by School Size
 ### Scores by School Type
+
+
+[def]: Images\district_summary.PNG
