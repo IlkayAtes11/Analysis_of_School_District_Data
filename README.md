@@ -9,9 +9,14 @@ This school district has 15 schools (7 district public, 8 charter) and 39,170 st
 ## Trends
 
 * District summary table shows that average reading test scores are higher than average math scores.  
-* There is negative relationship between test scores and school budgets.
-* There is negative relationship between test scores and school size.
-* Charter Schools have higher average test scores than distict public schools in all metrics. 
+
+* There is negative relationship between test scores and school budgets. This area needs further investigation about the reason behind this trend. This analysis shows us that more money is not the basic motive behind the success.
+
+* There is negative relationship between test scores and school size. From this finding, we can infer that there is an improvement opportunity for school district by thinking about investments on new school constructions which will help to decrease the number of students per school.  
+
+* Charter Schools have higher average test scores than distict-public schools in all metrics. When we sort the school summary table according to total number of students, we can see that charter schools are the schools with least number of students. Therefore, charter schools success will come from their size.
+
+* Stating data with visual tools, like graphs, will help us to understand the trends more easily. Moreover, before reaching to conclusion about trends, it will be a good idea to look at the statistical significances of the differences between test scores in terms of many different metrics.   
 
 ## Analysis
 ### District Summary
