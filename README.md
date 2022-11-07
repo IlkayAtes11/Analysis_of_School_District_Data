@@ -1,11 +1,44 @@
 # Analysis of School District Data
-## Background
+
+Aim of this analysis is to see the trends of standardized test scores among different schools in a specific district. This project will help the authorities to understand the reasons behind the successes/failures of different schools and act accordingly in the future. 
+
+There are two data sets, which are 'schools data' and 'students data'. Before starting analysis, these two datasets were merged.   
+
 ## Trends
+
+*
 ## Analysis
 ### District Summary
+
+Dataframe includes:
+Total schools
+Total students
+Total budget
+Average math score
+Average reading score
+% passing math (the percentage of students who passed math)
+% passing reading (the percentage of students who passed reading)
+% overall passing (the percentage of students who passed math AND reading)
+
 ![District Summary](./Images/district_summary.PNG)
+
 ### School Summary
+
+Data Frame includes below key metrics about each school:
+
+School name
+School type
+Total students
+Total school budget
+Per student budget
+Average math score
+Average reading score
+% passing math (the percentage of students who passed math)
+% passing reading (the percentage of students who passed reading)
+% overall passing (the percentage of students who passed math AND reading)
+
 ![School Summary](./Images/school_summary.PNG)
+
 ### Top Performing Schools (By % Overall Passing)
 ![Top Performing Schools](./Images/top_five.PNG)
 ### Bottom Performing Schools (By  % Overall Passing)
