@@ -2,13 +2,16 @@
 
 Aim of this analysis is to see the trends of standardized test scores among different schools in a specific district. This project will help the authorities to understand the reasons behind the successes/failures of different schools and act accordingly in the future. 
 
-There are two data sets, which are 'schools data' and 'students data'. Before starting analysis, these two datasets were merged.   
+There are two data sets, which are 'schools data' and 'students data'. Before starting analysis, these two datasets were merged.  
+
+This school district has 15 schools (7 district public, 8 charter) and 39,170 students who are attending to these schools. The school district has total budget of $24,649,428. 
 
 ## Trends
 
-*
-*
-*
+* District summary table shows that average reading test scores are higher than average math scores.  
+* There is negative relationship between test scores and school budgets.
+* There is negative relationship between test scores and school size.
+* Charter Schools have higher average test scores than distict public schools in all metrics. 
 
 ## Analysis
 ### District Summary
